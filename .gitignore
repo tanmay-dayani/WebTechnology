@@ -1,0 +1,24 @@
+# StudentHub Portal - Git Ignore Rules
+# Practical 1 & 15: Clean Repository Management
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sensitive or dynamic runtime logs
+*.log
+data/audit_log.txt
+
+# Web Server & Cache
+.htaccess
+error_log
+
+
+.vercel

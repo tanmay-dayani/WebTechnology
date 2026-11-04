@@ -1,0 +1,4 @@
+timestamp,name,email,subject,message,ip_address
+"2026-10-30 10:15:00","Aditya Joshi","aditya.j@gmail.com","Library Pass Issue","Need assistance linking my library barcode with StudentHub.","127.0.0.1"
+"2026-10-30 11:45:00","Sneha Kulkarni","sneha.k@gmail.com","Workshop Registration Query","Can 2nd year BCA students enroll in the Web 3.0 workshop?","127.0.0.1"
+

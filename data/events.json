@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "title": "National Hackathon 2026",
+    "category": "Technical",
+    "date": "2026-11-15",
+    "location": "Campus Audi-1",
+    "description": "36-hour code sprint focusing on AI, Cloud, and Web technologies with industry mentors.",
+    "status": "Open",
+    "seats": 120
+  },
+  {
+    "id": 2,
+    "title": "Web 3.0 & Cloud Workshop",
+    "category": "Workshop",
+    "date": "2026-11-18",
+    "location": "Lab 3, CS Block",
+    "description": "Hands-on training session on modern full-stack web and cloud microservices.",
+    "status": "Open",
+    "seats": 60
+  },
+  {
+    "id": 3,
+    "title": "Annual Sports Fest 'Urja'",
+    "category": "Sports",
+    "date": "2026-11-25",
+    "location": "University Sports Complex",
+    "description": "Inter-college cricket, football, badminton, and athletics tournaments.",
+    "status": "Open",
+    "seats": 300
+  },
+  {
+    "id": 4,
+    "title": "AI & Robotics Symposium",
+    "category": "Seminar",
+    "date": "2026-11-30",
+    "location": "Seminar Hall B",
+    "description": "Keynotes by renowned researchers exploring generative models and automated robotics.",
+    "status": "Open",
+    "seats": 150
+  },
+  {
+    "id": 5,
+    "title": "Cybersecurity Bootcamp",
+    "category": "Workshop",
+    "date": "2026-12-05",
+    "location": "Network Security Lab",
+    "description": "Learn defensive security, vulnerability scanning, and ethical hacking fundamentals.",
+    "status": "Open",
+    "seats": 50
+  },
+  {
+    "id": 6,
+    "title": "Cultural Fest 'Tarang 2026'",
+    "category": "Cultural",
+    "date": "2026-12-12",
+    "location": "Open Amphitheatre",
+    "description": "Music band showdown, dance battles, dramatics, and fashion show.",
+    "status": "Open",
+    "seats": 500
+  },
+  {
+    "id": 7,
+    "title": "Alumni Networking Dinner",
+    "category": "Networking",
+    "date": "2026-12-18",
+    "location": "Convention Centre",
+    "description": "Meet distinguished alumni working in Fortune 500 tech companies.",
+    "status": "Open",
+    "seats": 80
+  },
+  {
+    "id": 8,
+    "title": "UI/UX Design Masterclass",
+    "category": "Workshop",
+    "date": "2026-12-20",
+    "location": "Design Studio 2",
+    "description": "Learn Figma wireframing, color theory, and accessible design principles.",
+    "status": "Open",
+    "seats": 45
+  },
+  {
+    "id": 9,
+    "title": "Inter-College Debate Championship",
+    "category": "Academic",
+    "date": "2026-12-22",
+    "location": "Conference Hall A",
+    "description": "Parliamentary debate on digital ethics and artificial intelligence governance.",
+    "status": "Open",
+    "seats": 70
+  },
+  {
+    "id": 10,
+    "title": "Campus Blood Donation Camp",
+    "category": "Social",
+    "date": "2026-12-24",
+    "location": "Student Centre",
+    "description": "Annual blood donation drive in collaboration with the Red Cross Society.",
+    "status": "Closed",
+    "seats": 100
+  },
+  {
+    "id": 11,
+    "title": "StartUp Pitch Competition",
+    "category": "Business",
+    "date": "2027-01-08",
+    "location": "Incubation Centre",
+    "description": "Pitch your innovative tech idea to angel investors and win seed grants.",
+    "status": "Open",
+    "seats": 40
+  },
+  {
+    "id": 12,
+    "title": "Android App Development Bootcamp",
+    "category": "Technical",
+    "date": "2027-01-12",
+    "location": "Lab 5, CS Block",
+    "description": "Build production-ready Android apps with Kotlin and Jetpack Compose.",
+    "status": "Open",
+    "seats": 55
+  },
+  {
+    "id": 13,
+    "title": "Photography & Film Exhibition",
+    "category": "Cultural",
+    "date": "2027-01-15",
+    "location": "Art Gallery",
+    "description": "Showcasing lens work and short films crafted by student media club.",
+    "status": "Open",
+    "seats": 120
+  },
+  {
+    "id": 14,
+    "title": "Data Science with Python Seminar",
+    "category": "Seminar",
+    "date": "2027-01-20",
+    "location": "Seminar Hall C",
+    "description": "Exploratory data analysis, Pandas, Matplotlib, and predictive modeling.",
+    "status": "Open",
+    "seats": 90
+  },
+  {
+    "id": 15,
+    "title": "Yoga & Mental Wellness Workshop",
+    "category": "Sports",
+    "date": "2027-01-25",
+    "location": "Gymnasium Hall",
+    "description": "Guided meditation, stress release techniques, and healthy habits.",
+    "status": "Open",
+    "seats": 60
+  }
+]
+

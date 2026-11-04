@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "category": "General",
+    "question": "What is StudentHub?",
+    "answer": "StudentHub is a unified campus portal designed for students and administrators to manage event registrations, student directories, notices, and academic activities."
+  },
+  {
+    "id": 2,
+    "category": "Account",
+    "question": "How do I register for an account?",
+    "answer": "Click on the 'Register' link in the top menu, fill in your student ID, full name, email, phone, course, and choose a secure password."
+  },
+  {
+    "id": 3,
+    "category": "Account",
+    "question": "Can I update my profile details later?",
+    "answer": "Yes, log into your student dashboard and visit the 'Profile' section to update your phone number, course, and contact information."
+  },
+  {
+    "id": 4,
+    "category": "Events",
+    "question": "How do I participate in campus events?",
+    "answer": "Go to the 'Events' page, browse the available events, and click 'Register for Event'. Your registration status will immediately appear on your Student Dashboard."
+  },
+  {
+    "id": 5,
+    "category": "Events",
+    "question": "Is there any fee to register for workshops?",
+    "answer": "Most campus hackathons and workshops are completely free for registered students unless specifically specified in the event poster details."
+  },
+  {
+    "id": 6,
+    "category": "Security",
+    "question": "How is my password secured?",
+    "answer": "StudentHub uses PHP's BCRYPT password_hash algorithm, ensuring one-way cryptographic encryption. Passwords are never stored in plain text."
+  },
+  {
+    "id": 7,
+    "category": "Account",
+    "question": "What should I do if I forget my password?",
+    "answer": "Please contact the system administrator via the Contact Us page or visit the college IT Helpdesk with your student ID."
+  },
+  {
+    "id": 8,
+    "category": "Admin",
+    "question": "Who can access the Admin Dashboard?",
+    "answer": "Only users with the 'admin' role can access admin dashboards, manage students, create events, and inspect system audit logs."
+  },
+  {
+    "id": 9,
+    "category": "Technical",
+    "question": "Does StudentHub support dark mode?",
+    "answer": "Yes! You can toggle between Light and Dark mode using the sun/moon button in the header. Your preference is automatically stored in your browser's localStorage."
+  },
+  {
+    "id": 10,
+    "category": "General",
+    "question": "Can I use StudentHub on my smartphone?",
+    "answer": "Absolutely. The portal is built with mobile-first responsive CSS Grid and Flexbox, and includes a responsive mobile hamburger menu."
+  },
+  {
+    "id": 11,
+    "category": "Technical",
+    "question": "What is the purpose of the Audit Log?",
+    "answer": "The audit log records critical actions such as logins, registrations, student record additions, and deletions along with timestamps and IP addresses for accountability."
+  },
+  {
+    "id": 12,
+    "category": "Events",
+    "question": "How do event poster uploads work?",
+    "answer": "Event administrators can upload image files (JPG, PNG, WEBP) under 2MB. The server validates MIME types and saves them with sanitized unique file names."
+  },
+  {
+    "id": 13,
+    "category": "General",
+    "question": "Where does submitted feedback go?",
+    "answer": "Feedback is validated on the server and stored in local JSON format, while contact queries are logged to CSV files for administrative review."
+  },
+  {
+    "id": 14,
+    "category": "Security",
+    "question": "What is session timeout in StudentHub?",
+    "answer": "To protect student privacy on shared campus library computers, inactive sessions are automatically expired after 15 minutes of inactivity."
+  },
+  {
+    "id": 15,
+    "category": "Technical",
+    "question": "Does the portal provide a REST JSON API?",
+    "answer": "Yes, StudentHub includes PHP JSON API endpoints in the api/ directory, allowing asynchronous CRUD operations using JavaScript Fetch API without page reload."
+  }
+]
+

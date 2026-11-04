@@ -1,0 +1,6 @@
+.git
+.gitignore
+studenthub.sql
+data/audit_log.txt
+*.log
+

@@ -1,0 +1,168 @@
+[
+  {
+    "id": 1,
+    "code": "STU2026001",
+    "name": "Tanmay Sharma",
+    "email": "tanmay@studenthub.com",
+    "phone": "9876543210",
+    "course": "B.Tech CSE",
+    "year": "3rd Year",
+    "gender": "Male",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "code": "STU2026002",
+    "name": "Rohit Sharma",
+    "email": "rohit@studenthub.com",
+    "phone": "9823456781",
+    "course": "B.Tech IT",
+    "year": "2nd Year",
+    "gender": "Male",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "code": "STU2026003",
+    "name": "Priya Patel",
+    "email": "priya@studenthub.com",
+    "phone": "9845123456",
+    "course": "BCA",
+    "year": "1st Year",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "code": "STU2026004",
+    "name": "Ananya Iyer",
+    "email": "ananya.iyer@gmail.com",
+    "phone": "9876501234",
+    "course": "MCA",
+    "year": "2nd Year",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "code": "STU2026005",
+    "name": "Karan Verma",
+    "email": "karan.verma@gmail.com",
+    "phone": "9812345670",
+    "course": "B.Tech CSE",
+    "year": "4th Year",
+    "gender": "Male",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "code": "STU2026006",
+    "name": "Sneha Kulkarni",
+    "email": "sneha.k@gmail.com",
+    "phone": "9765432109",
+    "course": "BCA",
+    "year": "2nd Year",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 7,
+    "code": "STU2026007",
+    "name": "Aditya Joshi",
+    "email": "aditya.j@gmail.com",
+    "phone": "9988776655",
+    "course": "B.Tech IT",
+    "year": "3rd Year",
+    "gender": "Male",
+    "status": "Active"
+  },
+  {
+    "id": 8,
+    "code": "STU2026008",
+    "name": "Riya Sen",
+    "email": "riya.sen@gmail.com",
+    "phone": "9871234560",
+    "course": "B.Tech AI",
+    "year": "1st Year",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 9,
+    "code": "STU2026009",
+    "name": "Devendra Singh",
+    "email": "dev.singh@gmail.com",
+    "phone": "9822334455",
+    "course": "B.Tech CSE",
+    "year": "2nd Year",
+    "gender": "Male",
+    "status": "Active"
+  },
+  {
+    "id": 10,
+    "code": "STU2026010",
+    "name": "Meera Nair",
+    "email": "meera.nair@gmail.com",
+    "phone": "9711223344",
+    "course": "MCA",
+    "year": "1st Year",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 11,
+    "code": "STU2026011",
+    "name": "Varun Kapoor",
+    "email": "varun.k@gmail.com",
+    "phone": "9900112233",
+    "course": "BCA",
+    "year": "3rd Year",
+    "gender": "Male",
+    "status": "Active"
+  },
+  {
+    "id": 12,
+    "code": "STU2026012",
+    "name": "Pooja Hegde",
+    "email": "pooja.h@gmail.com",
+    "phone": "9833445566",
+    "course": "B.Tech IT",
+    "year": "4th Year",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 13,
+    "code": "STU2026013",
+    "name": "Siddharth Rao",
+    "email": "sid.rao@gmail.com",
+    "phone": "9844556677",
+    "course": "B.Tech CSE",
+    "year": "1st Year",
+    "gender": "Male",
+    "status": "Active"
+  },
+  {
+    "id": 14,
+    "code": "STU2026014",
+    "name": "Tanvi Deshmukh",
+    "email": "tanvi.d@gmail.com",
+    "phone": "9855667788",
+    "course": "MCA",
+    "year": "2nd Year",
+    "gender": "Female",
+    "status": "Active"
+  },
+  {
+    "id": 15,
+    "code": "STU2026015",
+    "name": "Nikhil Mehta",
+    "email": "nikhil.m@gmail.com",
+    "phone": "9866778899",
+    "course": "B.Tech AI",
+    "year": "2nd Year",
+    "gender": "Male",
+    "status": "Active"
+  }
+]
+

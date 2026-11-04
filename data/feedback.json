@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Karan Verma",
+    "email": "karan.verma@gmail.com",
+    "rating": 5,
+    "category": "Portal Usability",
+    "comments": "The dark mode toggle and fast search on the events page are great!",
+    "submitted_at": "2026-10-30 09:30:15",
+    "ip_address": "127.0.0.1"
+  },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "email": "priya@studenthub.com",
+    "rating": 4,
+    "category": "Mobile Experience",
+    "comments": "Navigation is clean and easy to read on mobile phones.",
+    "submitted_at": "2026-10-30 11:20:00",
+    "ip_address": "127.0.0.1"
+  }
+]
+
